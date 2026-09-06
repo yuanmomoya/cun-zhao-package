@@ -38,12 +38,12 @@
 
 ## 下载
 
-当前版本 **[0.1.0](https://github.com/yuanmomoya/cun-zhao-package/releases/tag/v0.1.0)**，请到 [Releases](https://github.com/yuanmomoya/cun-zhao-package/releases) 下载对应平台安装包。
+当前版本 **[0.1.0](https://github.com/yuanmomoya/cun-zhao-package/releases/tag/v0.1.0)**，可从 [GitHub Releases](https://github.com/yuanmomoya/cun-zhao-package/releases) 或夸克网盘下载对应平台安装包。
 
-| 平台 | 安装包 | 状态 |
-|---|---|---|
-| macOS 12+（Apple Silicon） | [`cun-zhao_0.1.0_aarch64.dmg`](https://github.com/yuanmomoya/cun-zhao-package/releases/download/v0.1.0/cun-zhao_0.1.0_aarch64.dmg) | 已发布 · 未签名：首次请右键 →「打开」 |
-| Windows 10/11 x64 | [`cun-zhao_0.1.0_x64-setup.exe`](https://github.com/yuanmomoya/cun-zhao-package/releases/download/v0.1.0/cun-zhao_0.1.0_x64-setup.exe) | 已发布 · 未签名：SmartScreen 选「仍要运行」；需 WebView2（Win11 自带） |
+| 平台 | GitHub | 夸克网盘 | 状态 |
+|---|---|---|---|
+| macOS 12+（Apple Silicon） | [`cun-zhao_0.1.0_aarch64.dmg`](https://github.com/yuanmomoya/cun-zhao-package/releases/download/v0.1.0/cun-zhao_0.1.0_aarch64.dmg) | [网盘下载](https://pan.quark.cn/s/e16197c746ae) | 已发布 · 未签名：首次请右键 →「打开」 |
+| Windows 10/11 x64 | [`cun-zhao_0.1.0_x64-setup.exe`](https://github.com/yuanmomoya/cun-zhao-package/releases/download/v0.1.0/cun-zhao_0.1.0_x64-setup.exe) | [网盘下载](https://pan.quark.cn/s/b6720fdbf0a7) | 已发布 · 未签名：SmartScreen 选「仍要运行」；需 WebView2（Win11 自带） |
 
 建议 64 位系统、内存 8GB 以上、预留约 300MB 磁盘空间。macOS 需 Apple Silicon；Windows 为 x64。
 
@@ -58,7 +58,7 @@
 
 ## 安装注意
 
-1. 从 [Releases](https://github.com/yuanmomoya/cun-zhao-package/releases) 下载，按系统选择文件。
+1. 从 [Releases](https://github.com/yuanmomoya/cun-zhao-package/releases) 或上方夸克网盘下载，按系统选择文件。
 2. **macOS**：若提示无法打开，在访达中右键安装包 →「打开」。
 3. **Windows**：若 SmartScreen 拦截，选「更多信息」→「仍要运行」；Win10 需已安装 [WebView2](https://developer.microsoft.com/microsoft-edge/webview2/)。
 4. 安装到当前用户即可，一般不需要管理员权限。
