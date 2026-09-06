@@ -1,0 +1,22 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.idea/
+.vscode/
+*.sw?
+
+# 日志与本地
+*.log
+*.local
+
+# 安装包本体通过 GitHub Releases 分发，不入库
+# desktop-app 单包约 80–160MB，超过 Git 仓库宜存体积
+*.dmg
+*.exe
+*.msi
+*.app
+*.zip
+*.tar.gz
+releases/binaries/
