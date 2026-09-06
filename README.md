@@ -1,5 +1,9 @@
 # 寸照
 
+<p align="center">
+  <img src="images/logo.png" width="128" alt="寸照" />
+</p>
+
 <p align="center"><b>离线证件照制作，发丝都清楚。照片不出本机。</b></p>
 
 选规格、导入照片（支持多选与拖入），本机即可完成抠图、单脸校验、裁切与换底，导出 PNG / JPEG。  
