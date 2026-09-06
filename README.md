@@ -19,7 +19,7 @@
 
 | 平台 | 安装包 | 状态 |
 |---|---|---|
-| macOS 12+（Apple Silicon） | [`寸照_0.1.0_aarch64.dmg`](https://github.com/yuanmomoya/cun-zhao-package/releases/download/v0.1.0/寸照_0.1.0_aarch64.dmg) | 已发布 · 未签名：首次请右键 →「打开」 |
+| macOS 12+（Apple Silicon） | [`cun-zhao_0.1.0_aarch64.dmg`](https://github.com/yuanmomoya/cun-zhao-package/releases/download/v0.1.0/cun-zhao_0.1.0_aarch64.dmg) | 已发布 · 未签名：首次请右键 →「打开」 |
 | Windows 10/11 x64 | — | 即将推出 |
 
 建议 Apple Silicon Mac、内存 8GB 以上、预留约 300MB 磁盘空间。
