@@ -42,9 +42,9 @@
 
 | 平台 | GitHub | 夸克网盘 | 状态 |
 |---|---|---|---|
-| macOS 13.3+（Apple Silicon） | [`cun-zhao_0.1.0_aarch64.pkg`](https://github.com/yuanmomoya/cun-zhao-package/releases/download/v0.1.0/cun-zhao_0.1.0_aarch64.pkg) | — | 推荐。安装时去掉隔离标记，避免「已损坏，无法打开」 |
-| macOS 13.3+（Apple Silicon） | [`cun-zhao_0.1.0_aarch64.dmg`](https://github.com/yuanmomoya/cun-zhao-package/releases/download/v0.1.0/cun-zhao_0.1.0_aarch64.dmg) | [网盘下载](https://pan.quark.cn/s/e16197c746ae) | 拖到「应用程序」。若仍提示已损坏，改用 pkg |
-| Windows 10/11 x64 | [`cun-zhao_0.1.0_x64-setup.exe`](https://github.com/yuanmomoya/cun-zhao-package/releases/download/v0.1.0/cun-zhao_0.1.0_x64-setup.exe) | [网盘下载](https://pan.quark.cn/s/b6720fdbf0a7) | 已发布 · 未签名：SmartScreen 选「仍要运行」；需 WebView2（Win11 自带） |
+| macOS 13.3+（Apple Silicon） | [`cun-zhao_0.1.0_aarch64.pkg`](https://github.com/yuanmomoya/cun-zhao-package/releases/download/v0.1.0/cun-zhao_0.1.0_aarch64.pkg) | [网盘下载](https://pan.quark.cn/s/cac8e13139bb) | 推荐。安装时去掉隔离标记，避免「已损坏，无法打开」 |
+| macOS 13.3+（Apple Silicon） | [`cun-zhao_0.1.0_aarch64.dmg`](https://github.com/yuanmomoya/cun-zhao-package/releases/download/v0.1.0/cun-zhao_0.1.0_aarch64.dmg) | [网盘下载](https://pan.quark.cn/s/cac8e13139bb) | 拖到「应用程序」。若仍提示已损坏，改用 pkg |
+| Windows 10/11 x64 | [`cun-zhao_0.1.0_x64-setup.exe`](https://github.com/yuanmomoya/cun-zhao-package/releases/download/v0.1.0/cun-zhao_0.1.0_x64-setup.exe) | [网盘下载](https://pan.quark.cn/s/cac8e13139bb) | 已发布 · 未签名：SmartScreen 选「仍要运行」；需 WebView2（Win11 自带） |
 
 建议 64 位系统、内存 8GB 以上、预留约 300MB 磁盘空间。macOS 需 Apple Silicon 且系统为 13.3 或更高；Windows 为 x64。
 
