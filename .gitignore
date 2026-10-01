@@ -16,6 +16,7 @@ Thumbs.db
 *.dmg
 *.exe
 *.msi
+*.pkg
 *.app
 *.zip
 *.tar.gz

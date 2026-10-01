@@ -42,10 +42,11 @@
 
 | 平台 | GitHub | 夸克网盘 | 状态 |
 |---|---|---|---|
-| macOS 12+（Apple Silicon） | [`cun-zhao_0.1.0_aarch64.dmg`](https://github.com/yuanmomoya/cun-zhao-package/releases/download/v0.1.0/cun-zhao_0.1.0_aarch64.dmg) | [网盘下载](https://pan.quark.cn/s/e16197c746ae) | 已发布 · 未签名：首次请右键 →「打开」 |
+| macOS 13.3+（Apple Silicon） | [`cun-zhao_0.1.0_aarch64.pkg`](https://github.com/yuanmomoya/cun-zhao-package/releases/download/v0.1.0/cun-zhao_0.1.0_aarch64.pkg) | — | 推荐。安装时去掉隔离标记，避免「已损坏，无法打开」 |
+| macOS 13.3+（Apple Silicon） | [`cun-zhao_0.1.0_aarch64.dmg`](https://github.com/yuanmomoya/cun-zhao-package/releases/download/v0.1.0/cun-zhao_0.1.0_aarch64.dmg) | [网盘下载](https://pan.quark.cn/s/e16197c746ae) | 拖到「应用程序」。若仍提示已损坏，改用 pkg |
 | Windows 10/11 x64 | [`cun-zhao_0.1.0_x64-setup.exe`](https://github.com/yuanmomoya/cun-zhao-package/releases/download/v0.1.0/cun-zhao_0.1.0_x64-setup.exe) | [网盘下载](https://pan.quark.cn/s/b6720fdbf0a7) | 已发布 · 未签名：SmartScreen 选「仍要运行」；需 WebView2（Win11 自带） |
 
-建议 64 位系统、内存 8GB 以上、预留约 300MB 磁盘空间。macOS 需 Apple Silicon；Windows 为 x64。
+建议 64 位系统、内存 8GB 以上、预留约 300MB 磁盘空间。macOS 需 Apple Silicon 且系统为 13.3 或更高；Windows 为 x64。
 
 ## 0.1.0 更新说明
 
@@ -54,12 +55,13 @@
 - 本机完成抠图、单脸校验、裁切与换底，照片不出本机
 - 内置 201 种证件照规格，支持搜索与批量制作
 - 导出 PNG / JPEG；JPEG 会按规格体积上限自动压缩
-- 本次同时提供 macOS（Apple Silicon）与 Windows 10/11 x64 安装包
+- macOS 安装包已做临时签名，系统下限为 macOS 13.3；请优先安装 pkg
+- 同时提供 Windows 10/11 x64 安装包
 
 ## 安装注意
 
 1. 从 [Releases](https://github.com/yuanmomoya/cun-zhao-package/releases) 或上方夸克网盘下载，按系统选择文件。
-2. **macOS**：若提示无法打开，在访达中右键安装包 →「打开」。
+2. **macOS**：优先下载 `cun-zhao_0.1.0_aarch64.pkg` 并安装。它会去掉下载带来的隔离标记，避免提示「已损坏，无法打开」。若使用 dmg，把「寸照」拖到「应用程序」；若仍提示已损坏，改用 pkg。
 3. **Windows**：若 SmartScreen 拦截，选「更多信息」→「仍要运行」；Win10 需已安装 [WebView2](https://developer.microsoft.com/microsoft-edge/webview2/)。
 4. 安装到当前用户即可，一般不需要管理员权限。
 
