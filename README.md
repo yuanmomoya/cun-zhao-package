@@ -74,3 +74,11 @@
 </p>
 
 <p align="center">微信扫描上方二维码，关注公众号 <b>程序员小袁</b><br/>编程干货 · 开发笔记 · AI 工具</p>
+
+## 赞赏
+
+如果寸照帮到了你，可以扫码请作者喝杯咖啡。
+
+<p align="center">
+  <img src="images/Donation-Code.jpg" width="320" alt="赞赏码" />
+</p>
