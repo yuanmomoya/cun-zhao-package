@@ -41,7 +41,7 @@
 电脑之外，微信里也可以做证件照。搜规格、换底色、做排版照，常用尺寸、签证和考试报名都能选。
 
 <p align="center">
-  <img src="images/minni-program.png" width="320" alt="寸照微信小程序" />
+  <img src="images/粉色证件照小程序宣传海报.png" width="320" alt="寸照微信小程序" />
 </p>
 <p align="center"><em>微信小程序：搜索尺寸、换底色、制作排版照</em></p>
 
